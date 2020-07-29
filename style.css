@@ -1,0 +1,405 @@
+*{
+
+    margin:0px;
+    padding:0px;
+    
+
+}
+
+body{
+
+    background-color: azure;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+
+   color:grey;
+
+}
+.container{
+
+    max-width:1000px;
+    background-color: aquamarine;
+    margin:0px auto;
+    padding:30px;
+}
+
+.jiku{
+    
+    height:120px;
+    width:120px;
+    border:10px solid brown;
+    border-radius:60%;
+    margin:30px;
+    float:left;
+
+}
+
+.bio{
+
+    float:left;
+    
+}
+
+.contact{
+
+    float:right;
+    padding:30px;
+    color:grey;
+    font-weight: bolder;
+
+}
+
+.contact ul li{
+ 
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+.contact a {
+
+    text-decoration:none;
+    color:grey;
+    font-weight: bolder;
+  
+}
+
+.contact a:hover{
+
+    text-decoration: underline;
+    color:orangered;
+
+}
+
+.clear1{
+
+    clear:both;
+
+}
+
+hr{
+
+    color:black;
+    border:3px solid black;
+    border-bottom:none;
+    width:100%;
+    margin:15px auto;
+
+}
+
+/*::-webkit-meter-even-less-good-value
+personal information start
+*/
+
+#personal-section{
+
+
+}
+
+.content{
+
+
+
+}
+
+.left{
+
+  
+   width:40%;
+   float:left;
+}
+
+.right{
+
+   width:60%;
+   float:left;
+
+}
+
+.clear2{
+
+   clear:both;
+
+}
+
+.common-hr{
+
+    border:2px solid black;
+    border-bottom:none;
+    width:100%
+    margin:15px auto;
+
+}
+
+/*::-webkit-meter-even-less-good-value
+education information start
+*/
+
+
+#education-section{
+
+
+
+}
+
+.education{
+
+
+
+}
+
+.left1{
+
+    
+    width:40%;
+    float:left; 
+
+}
+
+.right1{
+
+
+}
+
+.r1{
+
+    width:30%;
+    float:left;
+
+}
+
+.r1 a{
+
+    text-decoration: none;
+
+}
+
+.r1 a:hover{
+
+     text-decoration: underline;
+     color:orangered;
+}
+
+.r2 {
+
+   width:30%; 
+   float:right;
+ 
+}
+
+.r2 a{
+
+    text-decoration: none;
+}
+
+.r2 a:hover{
+
+    text-decoration: underline;
+    color:orangered;
+}
+
+.clear3{
+
+    clear:both;
+
+}
+
+.common-hr1{
+
+    border:2px solid black;
+    border-bottom: none;
+    width:100%
+    margin:15px auto;
+
+}
+
+/*::-webkit-meter-even-less-good-value
+experience information start
+*/
+
+#experience-section{
+
+
+}
+
+.experience{
+
+
+
+}
+
+.left2{
+
+    width:40%;
+    float:left;
+}
+
+.right2{
+
+    width:60%;
+    float:left;
+
+}
+
+.r3{
+
+
+}
+
+.r4{
+
+
+}
+
+.r5{
+
+
+}
+
+.clear4{
+
+    clear:both;
+}
+
+.common-hr2{
+
+    border:2px solid black;
+    border-bottom:none;
+    width:100%;
+    margin:15px auto;
+
+}
+
+/*::-webkit-meter-even-less-good-value
+skills information start
+*/
+
+#skills-section{
+
+
+
+}
+
+.skills{
+
+
+}
+
+.left3{
+
+   width:40%;
+   float:left;
+   
+}
+
+.right3{
+
+     
+}
+
+.r6{
+
+  width:30%;
+  float:left;
+
+}
+
+.r7{
+
+    width:30%;
+    float:right;
+
+}
+
+.clear5{
+
+    clear:both;
+
+}
+
+.common-hr3{
+
+    border:2px solid black;
+    border-bottom:none;
+    width:100%;
+    margin:15px auto;
+
+}
+
+/*::-webkit-meter-even-less-good-value
+activities information start
+*/
+
+#activities-section{
+
+
+}
+
+.activities{
+
+
+}
+
+.left4{
+
+    width:40%;
+    float:left;
+}
+
+.right{
+
+    width:60%;
+    float:left;
+
+}
+
+.clear6{
+
+    clear:both;
+
+}
+
+.common-hr4{
+
+    border:2px solid black;
+    border-bottom:none;
+    width:100%;
+    margin:15px auto;
+
+}
+
+/*::-webkit-meter-even-less-good-value
+footer start
+*/
+
+.footer{
+
+    background-color: black;
+    text-align: center;
+    padding:30px;
+    color:whitesmoke;
+
+}
+
+.footer a{
+
+    text-decoration: none;
+    color:wheat;
+    padding:20px;
+
+}
+
+.footer a:hover{
+
+    text-decoration: underline;
+    color:tomato;
+}
+
+.footer p{
+
+    color:whitesmoke;
+    margin-top:25px;
+    font-family: 'Satisfy', cursive;
+}
